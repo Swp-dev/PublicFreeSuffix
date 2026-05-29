@@ -29,7 +29,7 @@ All authorization emails **must be sent to the unified authorization email addre
 **It is crucial to send the authorization email only after your PR has been submitted, has received the `validation-passed` label, and has no conflicts; otherwise, it will be invalid.** You only need to send an email with the following subject line (replace `XXX` with your PR ID):
 
 ```
-APPROVE_PFS_PR_XXX
+APPROVE_PFS_PR_506
 ```
 
 **`XXX` should be replaced with your numerical PR ID.** **The email body does not require any content.** If you're concerned about the email going into spam, you can write a random sentence, as we only use the email subject to retrieve the PR information.
